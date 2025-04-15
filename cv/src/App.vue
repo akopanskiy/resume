@@ -4,7 +4,7 @@ import { TECH_SKILLS, SOFT_SKILLS, PROJECTS } from "@/utils/variables.js";
 </script>
 
 <template>
-	<div class="flex flex-col gap-10 max-w-[60%]">
+	<div class="flex flex-col gap-10 max-w-full">
 		<div class="flex justify-between">
 			<img src="../public/myphoto.jpeg" width="200"/>
 			<div>
