@@ -1,7 +1,7 @@
 export const TECH_SKILLS = [
-	{ name: "Languages", item: "JavaScript, TypeScript" },
-	{ name: "Frameworks & Libraries", item: "Vue.js, React.js, Next.js, Vuex, Pinia, Vue-Router" },
-	{ name: "Build Tools", item: "Webpack, Vite" }, { name: "Visualization", item: "ECharts, D3.js" },
+	{ name: "Languages", item: "JavaScript (ES6+), TypeScript" },
+	{ name: "Frameworks & Libraries", item: "Vue.js, React.js, Next.js, Vuex, Pinia, Vue-Router, ECharts, D3.js" },
+	{ name: "Build Tools", item: "Webpack, Vite" },
 	{ name: "Styling", item: " HTML5, CSS3, SCSS/SASS, Element-UI, Element-Plus" },
 	{ name: "Testing", item: "Mocha, Vitest, Sinon" }, { name: "Date & Time Libraries:", item: "Moment.js, Day.js" },
 	{ name: "Version Control", item: " Git, Bitbucket, GitHub" }, { name: "Task Management", item: "Jira" },
@@ -10,6 +10,10 @@ export const TECH_SKILLS = [
 
 export const SOFT_SKILLS = [ "Responsibility", "Communication", "Teamwork", "Multitasking", "Flexibility", "Analytical thinking",
 	"Problem-solving mindset"];
+
+export const KEY_SKILLS = ["Full-cycle recruitment & international hiring", "Technical and non-technical recruitment expertise",
+	"Mentoring", "Stakeholder management & candidate experience", "Workshop facilitation & public speaking",
+	"Green Card process support", "CRM & ATS tools | MS Office | LinkedIn Recruiter", "Strong understanding of tech & startup ecosystems"];
 
 export const PROJECTS = [
 	{
