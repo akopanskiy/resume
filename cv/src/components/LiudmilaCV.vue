@@ -5,9 +5,9 @@ import { KEY_SKILLS } from "@/utils/variables.js";
 
 <template>
 	<div class="flex flex-col gap-10 max-w-full">
-		<div class="flex justify-between">
+		<div class="flex gap-[150px]">
 			<img src="../../public/Liudmyla%20K..jpeg" alt="photo" width="200"/>
-			<div>
+			<div >
 				<h2 class="text-5xl font-black pb-1.5">Liudmyla Kutsyk</h2>
 				<span class="text-3xl font-extrabold pb-1.5">Senior Talent Acquisition & Recruitment Specialist</span>
 				
