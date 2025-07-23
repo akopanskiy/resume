@@ -23,6 +23,13 @@ console.log(route.path);
 					</div>
 				</RouterLink>
 			</li>
+			<li>
+				<RouterLink to="/akopanskyi-cv-2">
+					<div class="">
+						<img src="/img.png" class="h-[80vh]">
+					</div>
+				</RouterLink>
+			</li>
 		</ul>
 	</nav>
 	<main>
